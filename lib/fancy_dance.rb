@@ -1,5 +1,5 @@
 module FancyDance
-  module IntanceMethods 
+  module InstanceMethods 
     
     def twirl
       "I'm twirling!"
